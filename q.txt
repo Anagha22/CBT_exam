@@ -1,0 +1,52 @@
+Q1)Which of the following is FALSE about arrays on Java
+A) A java array is always an object
+B) Length of array can be changed after creation of array
+C) Arrays in Java are always allocated on heap
+D) None of the above
+Q2) Which operator will always evaluate all the Operands?
+A) ||
+B) &&
+C) ?:
+D) %
+Q3)Size of int in Java is
+A)16 bit
+B)32 bit
+C)64 bit
+D)Depends on execution environment
+Q4)Size of float and double in Java is
+A)32 and 64
+B)64 and 64
+C)32 and 32
+D)64 and 32
+Q5)Which of the following automatic type conversion will be possible?
+A)short to int
+B)byte to int
+C)int to long
+D)long to int
+Q6)Q. super keyword in Java is used for?
+A)to refer to immediate child class of a class.
+B)to refer to immediate parent class of a class.
+C)to refer to current class object.
+D)to refer to static member of parent class.
+Q7)Which operator is used to check object-type at runtime?
+A)ternary operator
+B)instanceof operator
+C)type operator
+D)length operator
+Q8)Argument passed to a program at the run time is stored in __________.
+A)String array passed to the parameter of main() method.
+B)Integer array passed to the parameter of main() method.
+C)Object array passed to the parameter of main() method.
+D)String array passed to the parameter of public class constructor.
+Q9)Multiple inheritance is not supported in Java because?
+A)To remove ambiguity and provide more maintainable and clear design.
+B)Java is a Object oriented language.
+C)Multiple inheritance is not an important feature.
+D)All of above
+Q10)import keyword is used to?
+A)both built-in packages and user-defined packages into your java source file.
+B)import only built-in packages into your java source file
+C)import only user-defined packages into your java source file
+D)None of the above
+
+
